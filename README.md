@@ -1,2 +1,2 @@
-# triton_pal
-Code helpers for writing triton kernals
+# triton_blocks
+Stackable blocks for writing triton kernels
